@@ -14,8 +14,8 @@ Use these guides to get ready for class work, optional local practice, and GitHu
 
 | Guide | Use This For |
 | --- | --- |
-| [Install Git and VS Code](https://patrickfrankaiu.github.io/ITWEB220-2602B/documentation/installation_guide.html) | Setting up Git and VS Code on your computer. (Control-Click to open in a separate tab.)|
-| [Create Your GitHub Portfolio](https://patrickfrankaiu.github.io/ITWEB220-2602B/documentation/github_portfolio_guide.html) | Building and polishing your GitHub profile and portfolio materials. (Control-Click to open in a separate tab.)|
+| [Install Git and VS Code](https://patrickfrankaiu.github.io/ITWEB220-2604A/documentation/installation_guide.html) | Setting up Git and VS Code on your computer. (Control-Click to open in a separate tab.)|
+| [Create Your GitHub Portfolio](https://patrickfrankaiu.github.io/ITWEB220-2604A/documentation/github_portfolio_guide.html) | Building and polishing your GitHub profile and portfolio materials. (Control-Click to open in a separate tab.)|
 
 ## Quick Start
 
